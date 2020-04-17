@@ -1,0 +1,11 @@
+Xây dựng lớp Nhân viên gồm các thuộc tính:
+Ten
+Hệ số lương
+Các phương thức:
+Nhập thông tin 
+Tính lương=hệ số lương *1490000
+In ra tên và lương
+Tạo ra 1 danh sách các nhân viên, nhập thông tin danh sách nhân viên đó, in ra danh sách
+Sắp xếp danh sách nhân viên theo thứ tự tên a->Z
+Tìm kiếm nhân viên có lương cao nhất
+Tìm nhân viên có tên chứa chữ “Anh”
